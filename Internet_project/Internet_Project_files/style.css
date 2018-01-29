@@ -1,0 +1,203 @@
+/*CSS reset settings here*/
+
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+#globe{
+    height: 10%;
+    width: 10%;
+    display: inline-block;
+}
+
+#h1TheInternet{
+    display: inline-block;
+    font-family: Helvetica;
+}
+
+#h2WWW{
+    display: inline-block;
+    font-family: Arial;
+    color: white;
+    padding: 10px;
+    font-size: 32px;
+    background-color: #4278a8;
+    width: 950px;
+}
+
+#wrapper{
+    background-color: white;
+    width: 970px;
+    height: 800px;
+    border: 2px solid black;
+}
+
+#header{
+    display: inline-block;
+    height: 50px;
+    width: 650px;  
+}
+
+    #DNS{
+        text-align: center;
+        width: 90px;
+    }
+
+    .topRight{
+        font-size: 10px;
+        color: black;
+        text-align: right;
+        display: block;
+    }
+
+    #phoneNumber{
+        color: teal;
+        text-align: right;
+        font-weight: bold;
+        display: block;
+    }
+
+    #phone{
+        height: 20px;
+        width: 20px;
+    }
+
+    #home{
+        height: 20px;
+        width: 20px;
+    }
+
+#column{
+    display: inline-block;
+}
+
+    #sideBar{
+        text-align: left;
+        display: inline-block;
+        height: 200px;
+        width: 200px;
+        margin: 10px 10px 10px 10px;
+        padding: 10px 10px 30px 10px;
+        border-bottom: 2px solid black;
+        font-family: Helvetica;
+        font-weight: bold;
+    }
+
+         #redText{
+             color: red;
+        }
+
+      . blueText{
+             color: #4278a8;
+         }
+
+        #button1{
+            background-color:#4a83b3;
+            color: white;
+            height: 50px;
+            width: 200px;
+            border-radius: 10px;
+            margin: 5px;
+            display: block;
+        }
+
+         #button2{
+             background-color: #efa343;
+             color: white;
+             height: 50px;
+             width: 200px;
+             border-radius: 10px;
+             margin: 5px;
+             display: block;
+         }
+
+#mainContent{
+    display: inline-block;
+    width: 600px;
+    vertical-align: top;
+}
+
+    #centerParagraphs{
+        margin: 10px 10px 10px 10px;
+        padding: 10px 10px 10px 10px;
+        border-top: 2px solid black;
+        list-style-position: inside;
+        text-align: justify;
+    }
+
+        #mainContent span{
+            color: #5ebdcc;
+        }
+
+        .paragraphTitles{
+            color:#286aa1;
+
+        }
+
+        #clientServer{
+            height: 50%;
+            width: 50%;
+            display: inline-block;
+            margin: 0px 50px 0px 150px;
+        }
+
+    #advertisement{
+        background-image: url(ad_background.png);
+        width: 220px;
+        height: 350px;
+        vertical-align: top;
+        margin: 10px 10px 10px 10px;
+        padding: 10px 10px 10px 10px;
+        text-align: center;
+    }
+
+        #h2ad{
+            color: white;
+            font-family: Helvetica;
+        }
+
+        #ninja{
+            height: 50%;
+            width: 50%;
+            display: inline-block;
+        }
+
+        #button3{
+            background-color: #54cadf;
+            color: white;
+            height: 30px;
+            width: 150px;
+            border-radius: 10px;
+            margin: 5px;
+            display: inline-block;
+            margin: 10px 10px 10px 10px;
+            padding: 5px 10px 10px 10px;
+            text-align: center;
+        }
+
+#footer{
+    width: 600px;
+    height: 125px;
+    border: 4px solid blue;
+}
+
+#footer h3{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#footerText{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+}
+
+    #HTML{
+        height: 100px;
+        width: 100px;
+        display: inline-block;
+        
+    }
+

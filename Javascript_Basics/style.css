@@ -1,0 +1,118 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+#wrapper{
+       background-color :#273353;
+       background-position: center;
+       background-size: auto;
+       height: 870px;
+       width: 970px;
+       margin: 10px auto;
+       padding: 1px 40px 40px 0px;
+ }
+
+    h1{
+        color: white;
+        font-size: 32px;
+        padding: 10px 10px 10px 10px;
+        margin: 10px 10px 10px 10px;
+    }
+
+    h2{
+        color: rgb(240, 243, 245);
+        padding: 10px 10px 10px 10px;
+        margin: 10px 10px 10px 10px;
+    }
+
+#header{
+    background-color: red;
+    height: 75px;
+    width: 900px;
+    margin: 25px 10px 25px 10px;
+    padding: 10px 30px 10px 20px;
+    border-radius: 15px;   
+
+}
+
+#navigation{
+    background-color: rgba(39, 138, 133, 0.582);
+    display: inline-block;
+    height: 250px;
+    width: 150px;
+    margin-top: 0px; 
+    margin-right: 30px auto;
+    margin-bottom: 0px auto;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    list-style-position: inside;
+    text-align: left;        
+}
+
+#nav-menu ul li a{
+    color: rgb(89, 231, 231);
+    position: absolute;
+}
+
+
+p{
+    color: rgb(240, 243, 245);
+    line-height: 1.5;
+    width:100%;
+    position: relative;
+}
+
+#para1{
+    text-align: left;
+    color: rgb(240, 243, 245);
+    margin: 10px 0px 0px 0px;
+    padding: 10px 10px 10px 10px;  
+    position: relative;
+}
+
+p.center{
+    display: inline;
+    color:  rgb(240, 243, 245);
+    margin: 10px 0px 10px 0px;
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+}
+
+#purple{
+    color: rgb(207, 131, 207);
+}
+
+#teal{
+    color: rgb(89, 231, 231);
+}
+
+#white{
+    color:rgb(240, 243, 245);
+}
+
+#maincontent{
+    background-color: rgb(5, 38, 46);
+    display: inline-block;
+    position: absolute;
+    height: 600px;
+    width: 750px;    
+    margin: 0px 0px 20px 20px;
+    padding: 0px 30px 50px 10px;
+    border-radius: 15px;
+    list-style-position: inside;
+}
+
+#textcenter{
+    text-align: center;
+}
+
+#footer{
+    background-color:#807f80;       
+    border-radius: 15px;  
+    height: 40px; 
+    width: 930px; 
+    margin: 400px 10px 0px 15px;
+    padding: 30px 40px 10px 10px; 
+}

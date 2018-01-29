@@ -1,0 +1,93 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #wrapper{
+    background-color: silver;
+    background-position: center;
+    background-size: auto;
+    height: 800px;
+    width: 950px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+   }
+   #header{
+    background-color: green;
+    height: 150px;
+    width: 860px;
+    margin-top: 25px;
+    margin-right: 400px;
+    margin-bottom: 35px;
+    margin-left: 35px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   }
+   #navigation{
+    background-color: blue;
+    display: inline-block;
+    height: 400px;
+    width: 200px;
+    margin-top: 0px auto;
+    margin-right: 10px auto;
+    margin-bottom: 0px auto;
+    margin-left: 35px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   }
+   #main_content{
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    height: 500px;
+    width: 635px;    
+    margin-left: 25px;
+    margin-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+   }
+   .subcontents{
+    background-color: yellow;
+    display: inline-block;
+    vertical-align: top;
+    height: 175px;
+    width: 175px;
+    margin-left: 25px;
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 00px;
+    padding-left: 0px;
+   }
+   #advertisement{
+    background-color: purple;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    height: 120px;
+    width: 550px;
+    margin-left: 25px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   }
